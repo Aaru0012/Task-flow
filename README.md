@@ -152,8 +152,7 @@ The project is deployed on Railway cloud platform and connected with MongoDB Atl
 
 1. Clone the Repository
 
-git clone https://github.com/amitsain001/Team-Task-Manager.git
-
+git clone https://github.com/Aaru0012/Task-flow
 2. Navigate to Project Folder
 
 cd team-task-manager
@@ -208,10 +207,9 @@ http://localhost:5000
 
 ## Author
 
-Amit Sain
+Aryan Verma
 
 GitHub:
-https://github.com/amitsain001
-
+https://github.com/Aaru0012
 Live Project Link:
 https://team-task-manager-production-bdf5.up.railway.app/auth/login
